@@ -1,4 +1,5 @@
 onlineShop/model/Product.class
+onlineShop/SecurityConfig.class
 onlineShop/model/ShippingAddress.class
 onlineShop/ApplicationConfig.class
 onlineShop/model/Authorities.class
