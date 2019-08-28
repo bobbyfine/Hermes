@@ -7,5 +7,6 @@
 /Users/bolinchen/Desktop/Hermes/onlineShop/src/main/java/onlineShop/model/BillingAddress.java
 /Users/bolinchen/Desktop/Hermes/onlineShop/src/main/java/onlineShop/model/CartItem.java
 /Users/bolinchen/Desktop/Hermes/onlineShop/src/main/java/onlineShop/ApplicationConfig.java
+/Users/bolinchen/Desktop/Hermes/onlineShop/src/main/java/onlineShop/dao/CustomerDao.java
 /Users/bolinchen/Desktop/Hermes/onlineShop/src/main/java/onlineShop/model/ShippingAddress.java
 /Users/bolinchen/Desktop/Hermes/onlineShop/src/main/java/onlineShop/model/SalesOrder.java

@@ -3,6 +3,7 @@ onlineShop/SecurityConfig.class
 onlineShop/model/ShippingAddress.class
 onlineShop/ApplicationConfig.class
 onlineShop/model/Authorities.class
+onlineShop/dao/CustomerDao.class
 onlineShop/model/User.class
 onlineShop/model/BillingAddress.class
 onlineShop/model/Cart.class
