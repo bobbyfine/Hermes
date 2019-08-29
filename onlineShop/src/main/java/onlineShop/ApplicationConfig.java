@@ -29,8 +29,8 @@ public class ApplicationConfig {
 		DriverManagerDataSource dataSource = new DriverManagerDataSource();
 		dataSource.setDriverClassName("com.mysql.jdbc.Driver");
 		dataSource.setUrl("jdbc:mysql://localhost:3306/ecommerce?serverTimezone=UTC");
-		dataSource.setUsername("root");
-		dataSource.setPassword("root");
+		dataSource.setUsername("remote");
+		dataSource.setPassword("uk8wb*LBD");
 
 		return dataSource;
 	}
